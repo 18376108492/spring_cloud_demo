@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="consumer" />
         <module name="demo_api" />
+        <module name="gareway" />
         <module name="hystrix" />
         <module name="open_fegin" />
         <module name="provider" />
         <module name="provider02" />
         <module name="server" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

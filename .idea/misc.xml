@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/consumer/pom.xml" />
         <option value="$PROJECT_DIR$/hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/open_fegin/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/gareway/pom.xml" />
       </list>
     </option>
   </component>
